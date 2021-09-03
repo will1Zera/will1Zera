@@ -1,5 +1,5 @@
 ## Olá, eu sou o William Bierhals
-## Bem vindos ao meu perfil, estou começando no mundo da programação
+
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will1Zera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
