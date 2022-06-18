@@ -1,53 +1,43 @@
-### Olá, Eu sou o William Bierhals 👋🏽
+<h1 align='center'>
+  Eai, sou o William Bierhals!
+  <br/>
+  Prazer ter você por aqui!
+</h1>
 
-- 💻 Entusiasta em JavaScript
-   
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
 
-##
+### ✨ Sobre mim:
 
-<div align="center">
-  <a href="https://github.com/will1Zera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will1Zera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will1Zera&layout=compact&langs_count=7&theme=dark"/>
-</div> 
+<p>
+  <em>
+    Tenho 20 anos, sou de Rio Grande do Sul e estou indo atrás do meu sonho de me tornar desenvolvedor.
+  </em>
+</p>
 
-##
+- 📚 Atualmente estou aprendendo ReactJs e NodeJs.
+- 👨🏼‍💻 Aluno do curso ProgramadorBr
+- 📫 Meu email: willambierhals@gmail.com
 
- ##### 🧠 Skills Set 
- 
-  <div style="display: inline_block;">
- <kbd align="center">
-      <kbd>Conhecimento em:</kbd>
-      <br />
-      <br />
-      <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<br />
-<br /> 
-</kbd>
-<kbd align="center">
-<kbd>Estudando:</kbd>
- <br />
- <br /> 
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
- <br />
- <br />
-</kbd> 
-<kbd align="center">
-<kbd>Interesse em:</kbd> 
-     <br />
-     <br />
-      <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-      
- <br />
- <br />
- </kbd>
-    
- </div>  
-   
-   ##
-<div> 
-  <a href = "mailto:willambierhals.sa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/william-bierhals-971b84222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📊 Metas 2022:
+
+- 🧩 Construir projetos em React
+
+- 📂 Criar meu portfólio
+
+- 📈 Conseguir experiência na área
+
+### ⚡ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,firebase,bootstrap,nodejs)](https://skillicons.dev)
+
+💬 Quer me conhecer?
+
+<div>
+  <a href="https://www.linkedin.com/in/william-bierhals-971b84222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5553984389423&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:willambierhals@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
