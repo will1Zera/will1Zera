@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo ReactJs e NodeJs.
+- 📚 Atualmente estou aprendendo React e Typescript.
 - 👨🏼‍💻 Aluno do curso ProgramadorBr
 - 📫 Meu email: willambierhals@gmail.com
 
