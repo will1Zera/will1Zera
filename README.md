@@ -17,16 +17,16 @@
 </p>
 
 - 📚 Atualmente estou aprendendo React e Typescript.
-- 👨🏼‍💻 Aluno do curso ProgramadorBr
+- 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu email: willambierhals@gmail.com
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
-- 🧩 Construir projetos em React
+- 🧩 Construir projetos pessoais
 
 - 📂 Criar meu portfólio
 
-- 📈 Conseguir experiência na área
+- 📈 Conseguir estágio na área
 
 ### ⚡ Tecnologias:
 
