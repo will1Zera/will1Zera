@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo React, Typescript e PHP.
+- 📚 Atualmente estou aprendendo Typescript e PHP.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu email: willambierhals@gmail.com
 
