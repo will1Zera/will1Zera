@@ -12,11 +12,11 @@
 
 <p>
   <em>
-    Tenho 20 anos, sou de Rio Grande do Sul e estou indo atrás do meu sonho de me tornar desenvolvedor.
+    Tenho 21 anos, sou de Rio Grande do Sul e estou indo atrás do meu sonho de me tornar desenvolvedor.
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo Typescript e PHP.
+- 📚 Atualmente estou aprendendo PHP e MySQL.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu email: willambierhals@gmail.com
 
