@@ -5,34 +5,34 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Front-End
+  QA and Frontend developer.
 </p>
 
 ### ✨ Sobre mim:
 
 <p>
   <em>
-    Tenho 21 anos, sou de Rio Grande do Sul e estou indo atrás do meu sonho de me tornar desenvolvedor.
+    Tenho 21 anos e estou indo atrás do meu sonho de me tornar desenvolvedor.
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo PHP e MySQL.
+- 📚 Aprendendo sobre QA, automação de teste e desenvolvimento web.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu email: willambierhals@gmail.com
 
 ### 📊 Metas 2023:
 
-- 🧩 Construir projetos pessoais
+- 🧩 Construir projetos pessoais.
 
-- 📂 Criar meu portfólio
+- 📂 Criar meu portfólio.
 
-- 📈 Conseguir estágio na área
+- 📈  Conseguir contratação na área.
 
 ### ⚡ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,firebase,bootstrap,styledcomponents,ts,php,mysql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,firebase,bootstrap,styledcomponents,ts,java,php,mysql)](https://skillicons.dev)
 
 💬 Quer me conhecer?
 
