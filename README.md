@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Front-end developer.
+  Desenvolvedor Full Stack.
 </p>
 
 ### ✨ Sobre mim:
@@ -18,11 +18,11 @@
 
 - 📚 Aprendendo sobre Typescript, Vue, React e PHP.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
-- 📫 Meu porftólio: [willambierhals@gmail.com](https://williambierhals.netlify.app/)
+- 📫 Meu porftólio: [Portfólio](https://williambierhals.netlify.app/)
 
 ### 📊 Metas 2023:
 
-- 📈  Conseguir contratação de estágio ou júnior.
+- 📈  Conseguir contratação como júnior.
 
 - 🧩 Construir projetos que tenham um impacto para as pessoas.
 
@@ -36,7 +36,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,styledcomponents,ts,vue,tailwind,figma)](https://skillicons.dev)
 
 - Back-end | QA<br/><br/>
-[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,java,php,mysql,gitlab,docker,express,postman,git,githubactions)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,java,php,mysql,gitlab,docker,express,laravel,postman,githubactions)](https://skillicons.dev)
 
 💬 Quer me conhecer?
 
