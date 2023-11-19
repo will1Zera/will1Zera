@@ -1,11 +1,9 @@
 <h1 align='center'>
-  Eai, sou o William Bierhals!
-  <br/>
-  Prazer ter você por aqui!
+  Eai, sou o William
 </h1>
 
 <p align='center'>
-  Desenvolvedor Full Stack.
+  Desenvolvedor Full Stack
 </p>
 
 ### ✨ Sobre mim:
@@ -16,13 +14,14 @@
   </em>
 </p>
 
-- 📚 Aprendendo sobre Typescript, Vue, React e PHP.
+- 💼 Atuando como Desenvolvedor Full Stack Júnior na YellowGo.
+- 📚 Aprendendo sobre Laravel, Vue, Docker e MySQL.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu porftólio: [Portfólio](https://williambierhals.netlify.app/)
 
 ### 📊 Metas 2023:
 
-- 📈  Conseguir contratação como júnior.
+- 📈  Conseguir alavancar minha carreira de Desenvolvedor.
 
 - 🧩 Construir projetos que tenham um impacto para as pessoas.
 
