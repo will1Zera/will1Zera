@@ -17,13 +17,13 @@
 - 💼 Atuando como Desenvolvedor Full Stack Júnior na YellowGo.
 - 📚 Aprendendo sobre Laravel, Vue, Docker e MySQL.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
-- 📫 Meu porftólio: [Portfólio](https://williambierhals.netlify.app/)
+- 📫 Meu porftólio: [Portfólio](https://williambierhals.netlify.app/).
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
-- 📈  Conseguir alavancar minha carreira de Desenvolvedor.
+- 📈  Conseguir chegar no estágio B como Desenvolvedor.
 
-- 🧩 Construir projetos que tenham um impacto para as pessoas.
+- 🧩 Construir projetos freelancers.
 
 - 💙 Adquirir contatos e conhecer novas pessoas.
 
