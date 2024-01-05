@@ -34,7 +34,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 - Front-end<br/><br/>
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,styledcomponents,ts,vue,tailwind,figma)](https://skillicons.dev)
 
-- Back-end | QA<br/><br/>
+- Back-end<br/><br/>
 [![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,java,php,mysql,gitlab,docker,express,laravel,postman,githubactions)](https://skillicons.dev)
 
 💬 Quer me conhecer?
