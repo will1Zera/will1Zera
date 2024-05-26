@@ -10,7 +10,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou de Pelotas e estou indo atrás do meu sonho de me tornar um desenvolvedor melhor a cada dia.
+    Tenho 22 anos, sou de Pelotas e estou indo atrás do meu sonho de me tornar um desenvolvedor melhor a cada dia.
   </em>
 </p>
 
@@ -23,7 +23,7 @@
 
 - 📈  Conseguir chegar no estágio B como Desenvolvedor.
 
-- 🧩 Construir projetos freelancers.
+- 🧩 Construir projetos completos.
 
 - 💙 Adquirir contatos e conhecer novas pessoas.
 
