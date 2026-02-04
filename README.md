@@ -14,14 +14,14 @@
   </em>
 </p>
 
-- 💼 Atuando como Desenvolvedor Full Stack Júnior na YellowGo.
+- 💼 Atuando como Desenvolvedor Full Stack Júnior na Hliberty.
 - 📚 Praticando Laravel, Vue, Docker e MySQL.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu porftólio: [Portfólio](https://williambierhals.netlify.app/).
 
-### 📊 Metas 2025:
+### 📊 Metas 2026:
 
-- 📈  Conseguir chegar no estágio III como Desenvolvedor Júnior.
+- 📈  Me tornar desenvolvedor pleno.
 
 - 🎓  Concluir tecnólogo de ADS.
 
