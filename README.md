@@ -10,12 +10,12 @@
 
 <p>
   <em>
-    Tenho 23 anos, sou de Pelotas e estou indo atrás do meu sonho de me tornar um desenvolvedor melhor a cada dia.
+    Tenho 24 anos, sou de Pelotas e estou indo atrás do meu sonho de me tornar um desenvolvedor melhor a cada dia.
   </em>
 </p>
 
-- 💼 Atuando como Desenvolvedor Full Stack Júnior na Hliberty.
-- 📚 Praticando Laravel, Vue, Docker e MySQL.
+- 💼 Atuando como Desenvolvedor Full Stack na hLiberty.
+- 📚 Laravel, Vue, Docker e MySQL.
 - 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas na UCPel.
 - 📫 Meu porftólio: [Portfólio](https://williambierhals.netlify.app/).
 
@@ -31,11 +31,11 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
+- Back-end<br/><br/>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,mysql,java,docker,postman,firebase)](https://skillicons.dev)
+
 - Front-end<br/><br/>
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,styledcomponents,ts,vue,tailwind,figma)](https://skillicons.dev)
-
-- Back-end<br/><br/>
-[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,java,php,mysql,gitlab,docker,express,laravel,postman,githubactions)](https://skillicons.dev)
 
 💬 Quer me conhecer?
 
