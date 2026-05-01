@@ -35,7 +35,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,mysql,java,docker,postman,firebase)](https://skillicons.dev)
 
 - Front-end<br/><br/>
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,styledcomponents,ts,vue,tailwind,figma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,vue,bootstrap,ts,react)](https://skillicons.dev)
 
 💬 Quer me conhecer?
 
